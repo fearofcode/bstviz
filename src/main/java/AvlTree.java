@@ -277,8 +277,8 @@ public class AvlTree<T extends Comparable<? super T>> {
 
         sb.append("digraph G {\n");
         sb.append("    graph [ordering=\"out\", fontname=Helvetica];\n");
-        sb.append("    node [ fontname=Helvetica, nodesep=0.2, ranksep=0.2, color=none, shape=plaintext];\n" +
-                  "    edge [ fontname=Helvetica, arrowsize=0.5, weight=3.0 ];\n");
+        sb.append("    node [ fontname=Helvetica];\n" +
+                  "    edge [ fontname=Helvetica];\n");
 
         sb.append(toGraphvizString(root, new StringBuilder()));
         sb.append("}\n");

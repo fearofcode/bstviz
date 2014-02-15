@@ -64,10 +64,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="App.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="App.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="10" selection-start="276" selection-end="276" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
+            <state line="7" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,12 +75,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AvlTree.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="AvlTree.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/AvlTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="286" column="39" selection-start="7737" selection-end="7737" vertical-scroll-proportion="0.0" vertical-offset="4103" max-vertical-offset="6375">
+            <state line="286" column="52" selection-start="7654" selection-end="7654" vertical-scroll-proportion="0.28939828" vertical-offset="4088" max-vertical-offset="6375">
               <folding>
-                <element signature="e#0#11776#0" expanded="true" />
+                <element signature="e#0#11693#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/testgraph.dot" />
         <option value="$PROJECT_DIR$/simple_graph.dot" />
         <option value="$PROJECT_DIR$/src/main/java/AvlNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AvlTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AvlTree.java" />
       </list>
     </option>
   </component>
@@ -694,12 +694,12 @@
       <created>1392447536047</created>
       <updated>1392447536047</updated>
       <workItem from="1392447547081" duration="817000" />
-      <workItem from="1392448372844" duration="7398000" />
+      <workItem from="1392448372844" duration="8398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8215000" />
+    <option name="totallyTimeSpent" value="9215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="481" y="211" width="1324" height="1152" extended-state="0" />
@@ -767,7 +767,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="194" column="31" selection-start="5199" selection-end="5199" vertical-scroll-proportion="0.0" vertical-offset="2910" max-vertical-offset="6120">
           <folding>
-            <element signature="e#0#11776#0" expanded="true" />
+            <element signature="e#0#11693#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -822,20 +822,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AvlTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="286" column="39" selection-start="7737" selection-end="7737" vertical-scroll-proportion="0.0" vertical-offset="4103" max-vertical-offset="6375">
+        <state line="7" column="24" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
           <folding>
-            <element signature="e#0#11776#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/AvlTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="10" selection-start="276" selection-end="276" vertical-scroll-proportion="0.23638968" vertical-offset="0" max-vertical-offset="698">
+        <state line="286" column="52" selection-start="7654" selection-end="7654" vertical-scroll-proportion="0.28939828" vertical-offset="4088" max-vertical-offset="6375">
           <folding>
+            <element signature="e#0#11693#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>

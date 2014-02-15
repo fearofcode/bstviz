@@ -5,7 +5,7 @@ public class App {
     public static void main(String[] args) throws Exception {
         AvlTree<Integer> tree = new AvlTree<>();
 
-        final int N = 64;
+        final int N = 32;
         //final int max = 1000;
 
         //Random rng = new Random();
